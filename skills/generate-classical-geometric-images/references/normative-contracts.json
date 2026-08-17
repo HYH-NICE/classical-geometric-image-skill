@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "contracts": {
+    "SKILL.md": [
+      "Classify every readable input as person or group; object, product, vehicle, or prop; architecture, interior, exterior, or landscape; drawing, pattern, or manuscript; or mixed source before selecting anchors, copy, period, or effects.",
+      "Never carry a subject noun, association, palette, period, typography route, or effect from one source into an unrelated source.",
+      "Rebuild every Source Feature Map and Poster Feature Card from the current source; never reuse anchors, associations, copy, period, palette, typography, or effects from a prior source.",
+      "Load references/normative-contracts.json before routing period typography, period palette, historical dissolution, or cross-source leakage safeguards, and obey every contract assigned to the selected files."
+    ],
+    "references/period-style-systems.md": [
+      "Build a Period Evidence Card from user direction and visible architectural, ornamental, material, manuscript, or painting evidence; never infer period from a person's appearance.",
+      "When specific-period evidence is weak, use a restrained broad-lineage system; when lineage evidence is insufficient, use shared classical geometry and do not invent a historical label.",
+      "Typography must derive proportion, rhythm, stroke contrast, spacing, alignment, and ornament restraint from the selected period while keeping Latin letters legible and never fabricating Arabic-looking or Chinese-looking glyphs.",
+      "Choose color from period materials and pigments rather than flags or generic ethnic color stereotypes; a source color may appear only as a restrained connector accent.",
+      "Record period evidence confidence as specific, broad, or insufficient, and state the fallback used.",
+      "Route enamel, glazed ceramic, and gemstone-like accents by the selected cultural lineage, confine them to architectural or typography-linked nodes behind the subject, and keep their combined visual area approximately 5–12%."
+    ],
+    "references/historical-dissolution.md": [
+      "Historical dissolution defaults to approximately 6–10% of one trailing expendable edge and follows motion, wind, or the governing geometric axis.",
+      "If no safe expendable edge exists, omit dissolution rather than damage an identity anchor, contact relationship, functional joint, structural bearing, measured line, repeat boundary, or exact visible character.",
+      "Route dissolution from the current source class and selected medium; drawings use graphite loss, blueprint grain, erased construction lines, or paper abrasion rather than smoke, debris, or volumetric particles.",
+      "Declare the one dissolution edge, its direction, approximate percentage, and every protected anchor before generation.",
+      "When dissolution is selected, distribute low-density loss along one consistent trailing side from top to bottom rather than concentrating it in one localized patch; skip protected segments and continue through adjacent atmosphere.",
+      "When dissolution is selected for a protected subject, route it as a background wake in one consistent top-to-bottom direction and never erode protected subject pixels."
+    ],
+    "references/historical-surreal-collage.md": [
+      "For a routed historical poster, collage, editorial, zine-like, or stylized architectural transformation, use the historical-surreal grammar by default; when the user explicitly requests no surrealism or a restrained conventional poster or editorial, disable the impossible spatial gesture and monumental-fragment formula while retaining source-shape linkage, anti-cutout composition, integrated typography, period evidence, and source fidelity.",
+      "Choose exactly one source-evidenced visual thesis and one memorable spatial gesture; every fragment, crop, type relationship, color accent, and effect must support them.",
+      "Apply the Islamic-fragment contract only when the Period Evidence Card selects Islamic lineage at specific or broad confidence; never apply it to Chinese, Western, shared-geometric, or insufficient-evidence routes.",
+      "Render the source and one monumental Islamic architectural fragment as one unified historical-surreal collage; never place a complete background behind a cutout subject or add detached caption bars.",
+      "Use two or three source-faithful planes at most, one dominant field, one structural secondary color, and at most one high-chroma accent; reject repeated corner emblems, symmetric badge grids, frame stacks, wallpaper motifs, and arbitrary floating shapes.",
+      "At thumbnail size require one focal hierarchy, one governing movement, and recognizable source anchors; at full size require intentional crop edges, overlaps, textures, typography, and cultural detail.",
+      "Apply the Chinese-route contracts only when the Period Evidence Card selects Chinese lineage at specific or broad confidence; never apply them to Islamic, Western, shared-geometric, or insufficient-evidence routes.",
+      "Express the shared collage grammar through evidenced bay rhythm, dougong, jiehua or ruled-line construction, stele or plaque proportion, woodblock, album-leaf, or mineral-pigment behavior without fake Chinese strokes.",
+      "Preserve the source topology, measured relationships, and semantic minimum while allowing at most two or three source-faithful planes.",
+      "Apply the Western-route contracts only when the Period Evidence Card selects Western lineage at specific or broad confidence; never apply them to Islamic, Chinese, shared-geometric, or insufficient-evidence routes.",
+      "Express the shared collage grammar through evidenced orders, entablature, vault, measured section, engraving plate, fresco, manuscript, or architectural-capriccio behavior without generic luxury-ad framing.",
+      "Make typography participate through alignment, partial occlusion, negative space, shared geometry, or the governing motion axis.",
+      "When period evidence is broad and lineage is Islamic, Chinese, or Western, use the corresponding broad-lineage system; only insufficient lineage evidence uses shared classical geometry.",
+      "Render the complete protected subject and every protected held object above optional coating, dissolution, abrasion, particles, glaze, enamel, and gemstone effects; those effects may continue only through adjacent background or genuine negative openings.",
+      "A unified base medium still applies to subject and architecture; subject protection never authorizes a photographic cutout."
+    ],
+    "references/quality-gates.md": [
+      "Reject jewelry-ad, black-gold luxury, plastic-gloss, or material accents attached to the protected subject.",
+      "Inspect the protected-subject boundary at thumbnail and 100% scale; fail any coating, dissolution, abrasion, particle, glaze, enamel, or gemstone effect that crosses onto a protected subject or held object.",
+      "If one targeted repair is allowed, rebuild it from the original source with a fully recompiled four-section prompt and correct only the highest-impact protected-effect failure."
+    ]
+  }
+}

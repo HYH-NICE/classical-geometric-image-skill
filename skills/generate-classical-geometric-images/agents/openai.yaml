@@ -1,0 +1,4 @@
+interface:
+  display_name: "古典年代建筑海报"
+  short_description: "从任意原始素材提取主体，匹配年代字体、材料色谱、绘画媒介与克制历史消散"
+  default_prompt: "Use $generate-classical-geometric-images 从这份原始素材直接生成一张最终建筑设计海报：只提取本图可见或我授权的特征，匹配有证据的年代字体和材料色谱；仅在我要求且存在安全边缘时加入克制的历史消散。"
