@@ -111,7 +111,7 @@ foreach ($file in $files) {
 $readmePath = Join-Path $releaseRootPath 'README.md'
 $readme = Get-Content -LiteralPath $readmePath -Raw -Encoding UTF8
 $requiredReadmeText = @(
-    'heyuhang1101101-commits/classical-geometric-image-skill',
+    'HYH-NICE/classical-geometric-image-skill',
     'skills/generate-classical-geometric-images',
     'Windows PowerShell',
     'macOS / Linux',

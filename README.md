@@ -8,18 +8,18 @@ For normal use, attach an image and request a style. The installed Skill generat
 
 Ask Codex to install the Skill from:
 
-`https://github.com/heyuhang1101101-commits/classical-geometric-image-skill/tree/main/skills/generate-classical-geometric-images`
+`https://github.com/HYH-NICE/classical-geometric-image-skill/tree/main/skills/generate-classical-geometric-images`
 
 ### Windows PowerShell
 
 ```powershell
-python "$env:USERPROFILE\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py" --repo heyuhang1101101-commits/classical-geometric-image-skill --path skills/generate-classical-geometric-images
+python "$env:USERPROFILE\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py" --repo HYH-NICE/classical-geometric-image-skill --path skills/generate-classical-geometric-images
 ```
 
 ### macOS / Linux
 
 ```bash
-python "${CODEX_HOME:-$HOME/.codex}/skills/.system/skill-installer/scripts/install-skill-from-github.py" --repo heyuhang1101101-commits/classical-geometric-image-skill --path skills/generate-classical-geometric-images
+python "${CODEX_HOME:-$HOME/.codex}/skills/.system/skill-installer/scripts/install-skill-from-github.py" --repo HYH-NICE/classical-geometric-image-skill --path skills/generate-classical-geometric-images
 ```
 
 Restart Codex or begin a new turn after installation. For a private repository, authenticate Git or provide `GITHUB_TOKEN`/`GH_TOKEN` in the local environment; never paste a token into chat.
